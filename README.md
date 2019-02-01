@@ -1,2 +1,0 @@
-# ExampleAsyncFetchRedux
-Created with CodeSandbox
